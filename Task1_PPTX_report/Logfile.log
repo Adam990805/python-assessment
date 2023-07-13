@@ -1,0 +1,16 @@
+2023-07-13 16:32:34,790 INFO Output saved in output.pptx
+2023-07-13 16:35:00,046 INFO title slide created
+2023-07-13 16:35:00,047 INFO text slide created
+2023-07-13 16:35:00,050 INFO list slide created
+2023-07-13 16:35:00,052 ERROR picture.png not found! pptx not created.
+2023-07-13 16:35:14,528 INFO title slide created
+2023-07-13 16:35:14,530 INFO text slide created
+2023-07-13 16:35:14,533 INFO list slide created
+2023-07-13 16:35:14,550 INFO picture slide created
+2023-07-13 16:35:14,551 ERROR sample.dat not found! pptx not created.
+2023-07-13 16:35:26,352 INFO title slide created
+2023-07-13 16:35:26,353 INFO text slide created
+2023-07-13 16:35:26,356 INFO list slide created
+2023-07-13 16:35:26,372 INFO picture slide created
+2023-07-13 16:35:26,377 INFO plot slide created
+2023-07-13 16:35:29,908 INFO Output saved in output.pptx
